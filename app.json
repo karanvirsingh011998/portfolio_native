@@ -22,6 +22,14 @@
     "experiments": {
       "typedRoutes": true
     },
+    "cli": {
+      "appVersionSource": "remote"
+    },
+    "build": {
+      "production": {
+        "autoIncrement": true
+      }
+    },
     "extra": {
       "router": {
         "origin": false
