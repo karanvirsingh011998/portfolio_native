@@ -16,6 +16,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/karanvirsingh011998/portfolio_native.git
+
 cd portfolio_native
 
 Install dependencies: npm install
