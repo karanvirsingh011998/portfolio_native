@@ -8,23 +8,16 @@ Prerequisites
 
 Make sure you have the following installed:
 
-Node.js
-
-npm
-
-Expo CLI
+> Node.js
+> npm
+> Expo CLI
 
 Installation
-
 Clone the repository:
 
 git clone <repository-url>
-cd <project-folder>
+cd portfolio_native
 
-Install dependencies:
+Install dependencies: npm install
 
-npm install
-
-Running the App
-
-Start the development server:
+Running the App: npm run dev
