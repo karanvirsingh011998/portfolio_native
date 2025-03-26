@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "karanvir-portfolio-expo-nativewind",
-    "slug": "karanvir-portfolio-expo-nativewind",
+    "name": "karanvirportfolio",
+    "slug": "karanvirportfolio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -31,7 +31,7 @@
       }
     },
     "android": {
-      "package": "com.karanvir011998.karanvirportfolioexponativewind"
+      "package": "com.karanvir011998.karanvirportfolio"
     },
     "owner": "karanvir011998"
   }
