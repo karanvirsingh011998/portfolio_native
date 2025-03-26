@@ -15,7 +15,7 @@ Make sure you have the following installed:
 Installation
 Clone the repository:
 
-git clone [<repository-url>](https://github.com/karanvirsingh011998/portfolio_native.git)
+git clone https://github.com/karanvirsingh011998/portfolio_native.git
 cd portfolio_native
 
 Install dependencies: npm install
